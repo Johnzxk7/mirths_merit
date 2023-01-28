@@ -1,1 +1,1 @@
-print("Hello World")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Johnzxk7/mirths_merit/main/hub",true))();
